@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Shopping List</string>
+    <string name="app_header">Click on the button to add items</string>
+    <string name="listitem1">Chicken</string>
+    <string name="listitem2">Egg</string>
+    <string name="listitem3">Flour</string>
+    <string name="listitem4">Ramen</string>
+    <string name="listitem5">Cookies</string>
+    <string name="listitem6">Pie</string>
+    <string name="listitem7">Jam</string>
+    <string name="listitem8">Butter</string>
+    <string name="listitem9">Ketchup</string>
+    <string name="listitem10">Wafer</string>
+    <string name="listitem11">Candy</string>
+    <string name="listitem12">Cake</string>
+    <string name="button1">Add Item</string>
+    <string name="button2">Clear List</string>
+</resources>
